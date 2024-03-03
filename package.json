@@ -1,0 +1,11 @@
+{
+    "private": true,
+    "workspaces": {
+        "packages": [
+            "./core",
+            "./team-a",
+            "./team-b",
+            "./main"
+        ]
+    }
+}
